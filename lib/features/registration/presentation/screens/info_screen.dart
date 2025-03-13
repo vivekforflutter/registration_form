@@ -5,7 +5,6 @@ import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:neosoft_assessment/core/extension/extensions.dart';
 import '../../../../core/enums/enums.dart';
-import '../../../../core/utils/validators.dart';
 import '../cubit/dropdown_textfield_cubit.dart';
 import '../widgets/custom_button.dart';
 import '../widgets/custom_dropdown.dart';
